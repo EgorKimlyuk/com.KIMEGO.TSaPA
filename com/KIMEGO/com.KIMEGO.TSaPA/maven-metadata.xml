@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>Com.EgorkimlukTestProject</groupId>
-  <artifactId>Com.EgorkimlukTestProject.newlib</artifactId>
+  <groupId>com.KIMEGO</groupId>
+  <artifactId>com.KIMEGO.TSaPA</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180528125756</lastUpdated>
+    <lastUpdated>20180528130050</lastUpdated>
   </versioning>
 </metadata>
