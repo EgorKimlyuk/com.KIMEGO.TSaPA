@@ -30,8 +30,6 @@
         </dependency>
     </dependencies>
 
-
-
     <distributionManagement>
         <repository>
             <id>internal.repo</id>
@@ -66,7 +64,7 @@
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
                     <branch>refs/heads/mvn-repo</branch>
                     <includes><include>**/*</include></includes>
-                    <repositoryName>newLibrary</repositoryName>
+                    <repositoryName>com.KIMEGO.TSaPA</repositoryName>
                     <repositoryOwner>EgorKimlyuk</repositoryOwner>
                 </configuration>
                 <executions>
